@@ -260,8 +260,8 @@ Function Prototypes
 <details>
     <summary>Nwosu Chukwuemeka<summary>
     <ul>
-    <li><a href="https://www.github.com/Kachu1212">Github</a></li>
-    <li><a href="https://www.twitter.com/Cknwosu">Twitter</a></li>
+    <li><a href="https://www.github.com/kachu1212">Github</a></li>
+    <li><a href="https://www.twitter.com/cknwosu">Twitter</a></li>
     <li><a href="mailto:cknwosu@gmail.com">e-mail</a></li>
     </ul>
 </details>
