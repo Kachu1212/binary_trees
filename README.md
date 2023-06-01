@@ -5,9 +5,9 @@ and disadvantages of using trees as data structures. We learned about how to
 qualify trees as well as how to traverse them. Throughout the project, we
 implemented binary, binary search, AVL, and Max Binary Heap trees.
 
-## Tests :heavy_check_mark:
+## tests_files :heavy_check_mark:
 
-* [tests](./tests): Folder of test files for all tasks. Provided by ALX.
+* [tests_files](./tests_files): Folder of test files for all tasks. Provided by ALX.
 
 ## Helper File :raised_hands:
 
@@ -258,7 +258,7 @@ Function Prototypes
 
 ## Authors
 <details>
-    <summary>Nwosu Chukwuemeka<summary>
+    <summary>Nwosu Chukwuemeka</summary>
     <ul>
     <li><a href="https://www.github.com/kachu1212">Github</a></li>
     <li><a href="https://www.twitter.com/cknwosu">Twitter</a></li>
